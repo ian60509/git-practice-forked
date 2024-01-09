@@ -2,6 +2,6 @@
 
 int main(){
     int a = 5;
-    printf("hello world \n")
+    printf("hello world ,hahaha\n")
     printf("I got sick")
 }
